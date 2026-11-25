@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary test scripts
+test_*.py
+test_*.docx
+verify_*.py
